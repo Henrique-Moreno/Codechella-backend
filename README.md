@@ -77,7 +77,7 @@
 
 <p>Clone o repositório para sua máquina local utilizando o seguinte comando:</p>
 
-git clone https://github.com/Henrique-Moreno/Back-End-Codechella.git
+git clone https://github.com/Henrique-Moreno/Codechella-backend.git
 
 <h2>Passo 2: Instalando as dependências</h2>
 
