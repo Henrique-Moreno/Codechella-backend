@@ -5,9 +5,9 @@
 
 ## Sobre o projeto
 
-<p> O Projeto Codechella é um challenge Front-End da Alura.</p>
+<p> O Projeto Codechella é um challenge Front-End.</p>
 <p> Mas o que é challenge ? 🤔</p>
-<p> Challenge traduzindo significa desafio, esses desafios, da Alura consiste em simular experência real de moldes de solicitação de uma empresa.</p>
+<p> Challenge traduzindo significa desafio, esses desafios, consiste em simular experência real de moldes de solicitação de uma empresa.</p>
 <p> O chellenge tem duração de 4 semanas aonde Alura disponibiliza protótipo Figma, e os alunos tem que colocar a mão na massa o melhor no código. 😁</p>
 
 <p>Esse challenge Front-End é da 6 edição, ele consiste em um site de festival de musica o Codechella.</p>
