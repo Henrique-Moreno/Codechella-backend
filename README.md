@@ -25,7 +25,7 @@
 
 <h1> Mas nesse projeto eu quis ir além.</h1>
 
-<h2> Vou fazer o Back-End, desse projeto. 👨‍💻</h2>
+<h2>Quis fazer o Back-End, desse projeto. 👨‍💻</h2>
 
 <h3>Beleza!!</h3>
 <h4> Analizando formulario eu vi que o usuario tem escolher um tipo de ingresso, e quando ele finaliza retorna para ele uma outra pagina com seu ingresso com nome dele e tipo de ingresso que ele escolheu.</h4>
